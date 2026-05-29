@@ -8,10 +8,11 @@ Reports are generated every week and cover commits, pull requests, issues, relea
 
 | Date | Link |
 |------|------|
-| 2026-05-22 | [2026-05-22.md](./2026-05-22.md) |
+| 2026-05-29 | [2026-05-29.md](./2026-05-29.md) |
 
 ## Archive
 
 | Date | Link |
 |------|------|
+| 2026-05-29 | [2026-05-29.md](./2026-05-29.md) |
 | 2026-05-22 | [2026-05-22.md](./2026-05-22.md) |
